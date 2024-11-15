@@ -1,28 +1,24 @@
-# Book Store Project (MERN Stack)
+# BookBliss: A Full-Stack MERN Bookstore Application
 
 
 ## Description
 
-This is a simple Book Store Project built using the MERN (MongoDB, Express.js, React, and Node.js) stack. This project demonstrates basic CRUD (Create, Read, Update, Delete) operations on both the backend and frontend, including routing and CORS policy configuration.
+The Book Store Project aims to provide an intuitive platform for managing and purchasing books, showcasing the power of the MERN stack. With CRUD functionalities for administrators and a user-friendly interface for customers, the project ensures efficient book management and a seamless shopping experience, highlighting full-stack integration and responsive design to meet diverse user needs effectively.
 
-Video Tutorial: https://www.youtube.com/watch?v=-42K44A1oMA&t=4s
+Video Tutorial: https://drive.google.com/file/d/1KW7Ww_CGtze23B-B0YbnMKlnBqnLxFyR/view?usp=sharing
 ## Features
+- **User-Friendly Interface:** Intuitive and responsive UI designed for easy navigation and seamless user experience.
+- **Admin Features**: Comprehensive CRUD operations for managing book entries, including creating, reading, updating, and deleting books. Secure admin panel to oversee and manage inventory effectively.
+- **Book Browsing and Search:** Users can browse the catalog or search for books by title, author, or genre.
+- **Shopping Cart:** Add, view, and remove books from the shopping cart before proceeding to checkout.
+- **User Authentication:** Secure login and registration system to ensure personalized and safe interactions.
+- **Efficient Data Management:** Seamless communication between the front end and backend for real-time updates. MongoDB ensures reliable and scalable storage of book and user data.
+  **Responsive Design:** Fully optimized for desktops, tablets, and mobile devices, offering a consistent experience across platforms.
+  **Purchase Functionality:** Streamlined checkout process for users to buy books quickly and efficiently.
 
-- **Backend CRUD:** The backend of this project provides CRUD operations for managing books. You can create, read, update, and delete books using the API endpoints.
-- **Backend Router:** Express.js is used to set up the backend routing. Each CRUD operation has its own route and controller for clean code separation.
-- **CORS Policy:** Cross-Origin Resource Sharing (CORS) policy is configured to allow requests from the frontend to the backend, ensuring proper communication between the two.
-- **MongoDB Operations:** MongoDB is used as the database for storing book information. The backend performs database operations such as creating, reading, updating, and deleting records.
-- **Frontend CRUD:** The frontend of the project provides a user interface for performing CRUD operations on books. You can add new books, view existing books, edit book details, and delete books.
-- **Frontend Router:** React Router is used to create client-side routing, allowing seamless navigation between different pages of the frontend application.
 
-## Screenshots
 
-![Home](image.png)
-![Card View](image-1.png)
-![Create Book](image-2.png)
-![Show Book](image-3.png)
-![Edit Book](image-4.png)
-![Delete Book](image-5.png)
+
 
 
 ## Getting Started
@@ -32,7 +28,7 @@ Follow the steps below to set up the project on your local machine and run it:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/JosephDoUrden/Book-Store-Project
+[https://github.com/swathy-subbaraman/Book-Store]
 cd book-store-project
 ```
 
@@ -73,14 +69,8 @@ npm run dev
 
 
 
-## Contact
+## Team
 
-If you have any questions, feedback, or would like to connect, feel free to reach out to me.
+    Swathy K S (2021503052), Pooja M J (2021503532),  Rupali S (2021503042),
+    Bhumisvara K (2021503704)
 
-- **Name:** Yusufhan Saçak
-- **Email:** yusufhan.sacak@bahcesehir.edu.tr
-- **Website:** https://medium.com/@yusufhansacak
-- **Twitter:** [@0xSCK](https://twitter.com/0xSCK)
-- **LinkedIn:** [Yusufhan Saçak](https://www.linkedin.com/in/yusufhansacak/)
-
-Feel free to contact me through any of the channels above. I'm open to collaborations and discussions related to Flutter development or any other projects.
