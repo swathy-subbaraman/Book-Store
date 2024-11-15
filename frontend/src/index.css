@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* src/index.css */
+footer {
+    background-color: #0d47a1; /* Customize this color */
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  footer a {
+    color: #000000;
+    margin: 0 10px;
+    text-decoration: none;
+}
+  footer a:hover {
+    text-decoration: underline;
+  }
+  
+  .book-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
