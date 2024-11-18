@@ -39,9 +39,9 @@ cd backend
 npm install
 ```
 
-- Configure the MongoDB connection by creating a .env file with your MongoDB URI:
+- Configure the MongoDB connection by creating a .env file with your MongoDB URL:
 ```
-MONGODB_URI=mongodb://localhost:27017/bookstore
+mongoDBURL = 'mongodb+srv://<Username>:<Password>@book-store.rx7zq.mongodb.net/<DB_Name>?retryWrites=true&w=majority'
 ```
 
 - Start the backend server:
