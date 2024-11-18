@@ -13,8 +13,8 @@ Video Tutorial: https://drive.google.com/file/d/1KW7Ww_CGtze23B-B0YbnMKlnBqnLxFy
 - **Shopping Cart:** Add, view, and remove books from the shopping cart before proceeding to checkout.
 - **User Authentication:** Secure login and registration system to ensure personalized and safe interactions.
 - **Efficient Data Management:** Seamless communication between the front end and backend for real-time updates. MongoDB ensures reliable and scalable storage of book and user data.
-  **Responsive Design:** Fully optimized for desktops, tablets, and mobile devices, offering a consistent experience across platforms.
-  **Purchase Functionality:** Streamlined checkout process for users to buy books quickly and efficiently.
+- **Responsive Design:** Fully optimized for desktops, tablets, and mobile devices, offering a consistent experience across platforms.
+- **Purchase Functionality:** Streamlined checkout process for users to buy books quickly and efficiently.
 
 
 
